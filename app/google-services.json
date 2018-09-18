@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "506752717291",
+    "firebase_url": "https://books-store-80089.firebaseio.com",
+    "project_id": "books-store-80089",
+    "storage_bucket": "books-store-80089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506752717291:android:38dbe1a17dbbce2f",
+        "android_client_info": {
+          "package_name": "gardianangel.www.quaketechs.com.mvptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506752717291-m5rn6fbg6ah8gshmbqqplvkkji8b8aue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gardianangel.www.quaketechs.com.mvptest",
+            "certificate_hash": "9ac3b7abe9133a6363dfc8a3af3641eadc42cab3"
+          }
+        },
+        {
+          "client_id": "506752717291-02cbkv705rmic7903gtp2toedag9upfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtduKnbrAaENcvX4-b44IV0k3SN9D0eG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506752717291-02cbkv705rmic7903gtp2toedag9upfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
